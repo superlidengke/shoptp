@@ -22,9 +22,13 @@ define('APP_PATH','./admin/');
 
 //定义url常量
 define('SITE_URL','http://localhost/shoptp/');
-define('CSS_URL',SITE_URL.'public/css/');
-define('IMG_URL',SITE_URL.'public/img/');
-define('JS_URL',SITE_URL.'public/js/');
+define('CSS_URL',SITE_URL.'public/home/css/');
+define('IMG_URL',SITE_URL.'public/home/img/');
+define('JS_URL',SITE_URL.'public/home/js/');
+
+define('ADMIN_CSS_URL',SITE_URL.'public/admin/css/');
+define('ADMIN_IMG_URL',SITE_URL.'public/admin/img/');
+define('ADMIN_JS_URL',SITE_URL.'public/admin/js/');
 
 
 // 引入ThinkPHP入口文件

@@ -1,0 +1,12 @@
+[ 2016-06-19T12:26:08+08:00 ] ::1 /shoptp/index.php/homeindex/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Homeindex
+
+[ 2016-06-19T15:06:55+08:00 ] ::1 /shoptp/index.php/homes/indexrrr/hello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Homes
+
